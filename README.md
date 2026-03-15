@@ -49,3 +49,6 @@ Install dependencies via pip:
 
 ```bash
 pip install opencv-python numpy matplotlib
+
+------
+Kaggle Link: https://www.kaggle.com/code/shamimulislamsunny/hair-removal-and-segmentation-on-dermahair-dataset
